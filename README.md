@@ -1,4 +1,4 @@
-### :joystick::musical_score: Hi, I'm David!  :guitar::computer:
+<h1>:joystick::musical_score: Hi, I'm David!  :guitar::computer:</h1> 
 
 About Me
 
@@ -6,9 +6,7 @@ About Me
 def about_me():
   info = 
   return info
-{
 
-}
 
 ```
 ---
@@ -35,20 +33,26 @@ def about_me():
 <br />
 <br />
 
-Hi, I'm David Avila, a Junior Developer 🚀 from Colombia, currently, I'm a Student Software Engineer at 🙍🏽‍♂️ Universidad Católica de Colombia. I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy playing videogames and playing the guitar.
+<div>
+    <img  align="right" alt="GIF" src="https://media.giphy.com/media/ZJh42VKmeQ2yY/giphy.gif" width="300" />
+    :trollface:	
+
+
+    Hi, I'm David Avila, a Junior Developer 🚀 from Colombia, currently, I'm a Student Software Engineer at 🙍🏽‍♂️ Universidad Católica de Colombia. I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy playing videogames and playing the guitar.
+
+</div>
 
 
 
 
 
-:trollface:	
 
 
 ---
 
 <br/>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZJh42VKmeQ2yY/giphy.gif" />
-  <h2 align="center"> Github Statistics 📈 </h2>
+ 
+<h2 align="center"> Github Statistics 📈 </h2>
   
 
 <br/>
