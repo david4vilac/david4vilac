@@ -47,7 +47,7 @@ def get_bio():
   <a href="https://www.instagram.com/david_avilac/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
   </a>
-  <a href="https://www.linkedin.com/in//">
+  <a href="https://www.linkedin.com/in/davidavilac/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
   <a href="mailto:alvarodavidavila@gmail.com">
