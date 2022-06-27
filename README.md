@@ -1,8 +1,8 @@
-<h1>:joystick::musical_score: Hi, I'm David!  :guitar::computer:</h1> 
+<h1 align="center" ><img src="https://media.giphy.com/media/iVS4wrp1XT3BqUAQjo/giphy.gif" width="60">:joystick::musical_score: Hi, I'm David!  :guitar::computer: <img src="https://media.giphy.com/media/9scDKvkMl1xvoJqXvt/giphy.gif" width="60"></h1> 
 
-About Me
 
 ```python
+import SoftwareDeveloper from 'david4vilac';
 def get_bio():
     david = {
         "name":"David Avila",
@@ -18,9 +18,10 @@ def get_bio():
     }
     return david
 ```
+### <img src="https://media.giphy.com/media/UtWB4kipDcZvWluE6a/giphy.gif" width="50"> A little more about me... 
+<img align='right' src="https://media.giphy.com/media/ZJh42VKmeQ2yY/giphy.gif" width="230">
 
   <p> Hi, I'm David Avila, a Junior Developer 🚀 from Colombia, currently, I'm a Student Software Engineer at 🙍🏽‍♂️ Universidad Católica de Colombia. I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy playing videogames and playing the guitar.</p>
-  <p align="center"><img alt="GIF" src="https://media.giphy.com/media/ZJh42VKmeQ2yY/giphy.gif" width="300" /></p>
 
 
 <h2>Tech & Tools Preference</h2>
@@ -32,17 +33,21 @@ def get_bio():
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 <h2 align="center"> 💻 Some stats 💻 📈 </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david4vilac&langs_count=10&theme=tokyonight&layout=compact" alt="david4vilac :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david4vilac&langs_count=10&theme=tokyonight&layout=compact" alt="david4vilac"/></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=david4vilac&show_icons=true&theme=radical"> </p>
+
 
 ---
 
+<p align="center">
 
-<a href="https://www.linkedin.com/in/david_avilac/">
-  <img align="left" alt="David's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.gitlab.com/david_avilac">
-  <img align="left" alt="David's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg" />
-</a>
-<a href="https://www.instagram.com/david_avilac">
-  <img align="left" alt="David's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+  <a href="https://www.instagram.com/david_avilac/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in//">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
+  </a>
+  <a href="mailto:alvarodavidavila@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
+  </a>
+</p>
