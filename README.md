@@ -7,9 +7,9 @@ def get_bio():
     david = {
         "name":"David Avila",
         "pronouns": {"he", "him"},
-        "Age": 22,
+        "Age": 24,
         "Code": [
-            "Javascript", "C#", "HTML", "CSS", "Python", "Java"
+            "Javascript", "C#", "HTML", "CSS", "Python", "Java", "PHP"
             ],
         "technologies": {
             "DataBases": ["MongoDB", "MySQL", "PostgreSQL"],
@@ -23,7 +23,7 @@ def get_bio():
 ### <img src="https://media.giphy.com/media/UtWB4kipDcZvWluE6a/giphy.gif" width="50"> A little more about me... 
 <img align='right' src="https://media.giphy.com/media/ZJh42VKmeQ2yY/giphy.gif" width="220">
 
-  <p> Hi, I'm David Avila, a Junior Developer 🚀 from Colombia, currently, I'm a Student Software Engineer at 🙍🏽‍♂️ Universidad Católica de Colombia. I'm a creative problem solving enthusiast, with a constantly growing love for languages, I try to learn new things every day. Beside's programming, I enjoy playing videogames and playing the guitar.</p>
+  <p> Hi, I'm David Avila, a Junior Developer 🚀 from Colombia, currently, I'm a Software Engineer at 🙍🏽‍♂️ Universidad Católica de Colombia. I'm a creative problem solving enthusiast, with a constantly growing love for languages, I try to learn new things every day. Beside's programming, I enjoy playing videogames and playing the guitar.</p>
 
 `$ git commit -m "Believe me I enjoy this."`
 
